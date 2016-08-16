@@ -1,0 +1,82 @@
+body{
+	background-color: #FFCCFF;
+}
+
+h1 { 
+	font-family: cursive;
+	color:#FFFFFF;
+ 	font-size: 40px;
+}
+
+h2 {
+	font-family: arial; 
+	color: #FFFFFF;
+	font-size: 20px;
+}
+a{
+	color:#000000;
+}
+.summary{
+	font-size:20px;
+   font-family:Courier;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+	border-width:2px;
+   border-color:#CC3399;
+   border-style:solid;
+}
+.preamble{
+	font-family:sans-serif;
+	color: #FF99FF;
+	text-orientation: underline;
+	border-width:2px;
+	border-color: #CC3399;
+	border-style:dashed;
+}
+.main {
+	font-family:cursive;
+	color: #FF99CC;
+	border:2px;
+   border-color:#FF66CC;
+   border-style:solid;
+   background: #CC66CC;
+}
+.participation{
+	font-family: fantasy;
+	color:#000000;
+	text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+}
+.benefits{
+	font-size:12px;
+	font-family:Arial;
+	color:#00000;
+	font-size:x-large;
+	border-color:#FF66CC;
+   border-style:solid;
+   background: #ffffff;
+}
+h3{
+	font-size:x-large;
+	color:#FF99CC;
+}
+
+li{
+	color:#CC3399;
+}
+ul{
+	font-family: cursive;
+	color:#FF99CC
+	border-width:2px;
+	border-color: #CC3399;
+	border-style:dashed;
+
+}
